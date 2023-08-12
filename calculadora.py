@@ -9,3 +9,6 @@ if operador == "+":
 elif operador == "-":
     resultado = num1 - num2
     print("El resultado es: ",resultado)
+elif operador == "*"
+    resultado = num1 * num2
+    print("El resultado es: ",resultado)
